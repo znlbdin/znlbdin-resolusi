@@ -1,0 +1,5 @@
+RENCANA KONTEN ZAINAL
+- konten power bi
+- konten tableau
+- konten ui/ux
+- konten data engineering
