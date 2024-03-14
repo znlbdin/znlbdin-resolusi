@@ -2,6 +2,8 @@ RENCANA KONTEN ZAINAL
 - konten power bi
   power bi : introduction, dashboarding, dax
 - konten tableau struktur data dasar
-- belajar fundamental
 - konten ui/ux
+ * slicing
 - konten data engineering
+ * biq query
+ * hadoop
