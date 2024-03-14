@@ -4,4 +4,8 @@ RENCANA KONTEN ZAINAL
 - konten tableau struktur data dasar
 - belajar fundamental
 - konten ui/ux
+  * slicing
 - konten data engineering
+ * hadoop
+ * apache spark
+- konten python
