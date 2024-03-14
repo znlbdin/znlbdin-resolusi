@@ -7,4 +7,5 @@ RENCANA KONTEN ZAINAL
   * slicing
 - konten data engineering
  * hadoop
+ * apache spark
 - konten python
