@@ -3,7 +3,8 @@ RENCANA KONTEN ZAINAL
   power bi : introduction, dashboarding, dax
 - konten tableau struktur data dasar
 - konten ui/ux
- * slicing
+  * slicing
 - konten data engineering
- * biq query
  * hadoop
+ * apache spark
+- konten python
